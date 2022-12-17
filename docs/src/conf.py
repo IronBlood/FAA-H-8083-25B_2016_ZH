@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = '飞行员航空知识手册'
-copyright = '2022, IronBlood'
-author = 'IronBlood'
+copyright = '2022, 美国运输部联邦航空管理局'
+author = '美国运输部联邦航空管理局'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
